@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>AI Elderly Healthcare Dashboard</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<header>
+AI Elderly Healthcare
+
+<div>
+<select onchange="setLang(this.value)">
+<option value="en">English</option>
+<option value="hi">हिंदी</option>
+<option value="kn">ಕನ್ನಡ</option>
+</select>
+
+<span class="toggle" onclick="toggleDark()">🌙</span>
+</div>
+</header>
+
+
+<div class="wrapper">
+
+<div class="sidebar">
+
+<button class="menu-btn" onclick="show('dashboard')" id="b1">Dashboard</button>
+
+<button class="menu-btn" onclick="show('patient')" id="b2">Patient Entry</button>
+
+<button class="menu-btn" onclick="show('monitor')" id="b3">Monitoring</button>
+
+<button class="menu-btn" onclick="show('ai')" id="b4">AI Prediction</button>
+
+<button class="menu-btn" onclick="show('food')" id="b5">Food Suggestion</button>
+
+<button class="menu-btn" onclick="show('reminder')" id="b6">Reminders</button>
+
+<button class="menu-btn" onclick="show('emergency')" id="b7">Emergency</button>
+
+<button class="menu-btn" onclick="show('utilities')" id="b8">Utilities</button>
+
+</div>
+
+<div class="content" id="content"></div>
+
+</div>
+
+</div>
+
+<a href="/logout">
+<button style="width:auto">
+Logout
+</button>
+</a>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html>

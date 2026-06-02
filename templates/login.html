@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>AI Elderly Healthcare Login</title>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Segoe UI',sans-serif;
+}
+
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:
+linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+overflow:hidden;
+}
+
+/* Background Glow */
+
+body::before{
+content:"";
+position:absolute;
+width:500px;
+height:500px;
+background:#00d4ff;
+filter:blur(150px);
+opacity:.25;
+top:-100px;
+left:-100px;
+}
+
+body::after{
+content:"";
+position:absolute;
+width:400px;
+height:400px;
+background:#00ff99;
+filter:blur(150px);
+opacity:.15;
+bottom:-100px;
+right:-100px;
+}
+
+/* Login Card */
+
+.login-card{
+width:420px;
+padding:40px;
+background:rgba(255,255,255,.1);
+backdrop-filter:blur(20px);
+border:1px solid rgba(255,255,255,.2);
+border-radius:25px;
+box-shadow:0 20px 50px rgba(0,0,0,.3);
+text-align:center;
+color:white;
+z-index:10;
+animation:fadeIn .8s ease;
+}
+
+@keyframes fadeIn{
+from{
+opacity:0;
+transform:translateY(40px);
+}
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
+
+.logo{
+width:90px;
+height:90px;
+margin:auto;
+margin-bottom:20px;
+border-radius:50%;
+display:flex;
+justify-content:center;
+align-items:center;
+background:linear-gradient(45deg,#00b4d8,#0077b6);
+font-size:40px;
+box-shadow:0 10px 30px rgba(0,180,216,.4);
+}
+
+h1{
+margin-bottom:10px;
+font-size:28px;
+}
+
+.subtitle{
+color:#d8f3ff;
+font-size:14px;
+margin-bottom:30px;
+}
+
+/* Inputs */
+
+.input-group{
+position:relative;
+margin-bottom:20px;
+}
+
+.input-group i{
+position:absolute;
+left:15px;
+top:50%;
+transform:translateY(-50%);
+color:#00d4ff;
+}
+
+.input-group input{
+width:100%;
+padding:14px 14px 14px 45px;
+border:none;
+outline:none;
+border-radius:12px;
+background:rgba(255,255,255,.15);
+color:white;
+font-size:15px;
+}
+
+.input-group input::placeholder{
+color:#ddd;
+}
+
+/* Button */
+
+.login-btn{
+width:100%;
+padding:14px;
+border:none;
+border-radius:12px;
+font-size:16px;
+font-weight:600;
+cursor:pointer;
+color:white;
+background:linear-gradient(45deg,#00b4d8,#0077b6);
+transition:.3s;
+}
+
+.login-btn:hover{
+transform:translateY(-3px);
+box-shadow:0 10px 25px rgba(0,180,216,.4);
+}
+
+/* Demo Accounts */
+
+.demo{
+margin-top:25px;
+padding:15px;
+border-radius:12px;
+background:rgba(255,255,255,.08);
+font-size:13px;
+line-height:1.8;
+}
+
+.demo b{
+color:#00d4ff;
+}
+
+.footer{
+margin-top:20px;
+font-size:12px;
+color:#ccc;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="login-card">
+
+<div class="logo">
+<i class="fas fa-heartbeat"></i>
+</div>
+
+<h1>AI Elderly Healthcare</h1>
+
+<p class="subtitle">
+Smart Patient Monitoring & Healthcare System
+</p>
+
+<form method="POST" action="/login">
+
+<div class="input-group">
+<i class="fas fa-user"></i>
+<input
+type="text"
+name="username"
+placeholder="Enter Username"
+required>
+</div>
+
+<div class="input-group">
+<i class="fas fa-lock"></i>
+<input
+type="password"
+name="password"
+placeholder="Enter Password"
+required>
+</div>
+
+<button class="login-btn" type="submit">
+<i class="fas fa-sign-in-alt"></i>
+ Login
+</button>
+
+</form>
+
+<div class="demo">
+
+<b>Admin</b><br>
+Username: admin<br>
+Password: admin123
+
+<hr style="margin:10px 0;border-color:rgba(255,255,255,.1)">
+
+<b>Doctor</b><br>
+Username: doctor<br>
+Password: doctor123
+
+<hr style="margin:10px 0;border-color:rgba(255,255,255,.1)">
+
+<b>Patient</b><br>
+Username: patient<br>
+Password: patient123
+
+</div>
+
+<div class="footer">
+© 2026 AI Elderly Healthcare System
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1201 @@
+name,age,gender,heart_rate,bp,temperature,oxygen,symptoms,risk
+Patient_1,91,Male,66,121/70,97.8,95,fatigue,LOW
+Patient_2,77,Male,106,157/84,99.0,100,cough,MEDIUM
+Patient_3,100,Male,71,148/97,98.5,97,none,LOW
+Patient_4,73,Male,71,110/79,100.9,89,cough,HIGH
+Patient_5,94,Female,129,119/79,99.8,94,cough,HIGH
+Patient_6,70,Male,83,139/84,98.5,93,chest pain,LOW
+Patient_7,67,Male,80,110/86,97.6,90,none,HIGH
+Patient_8,68,Male,80,122/73,97.7,98,fatigue,LOW
+Patient_9,72,Female,89,134/81,101.2,86,cough,HIGH
+Patient_10,99,Female,100,112/97,102.9,98,dizziness,HIGH
+Patient_11,94,Male,110,114/84,98.7,100,cough,MEDIUM
+Patient_12,81,Male,52,112/78,96.4,85,fatigue,HIGH
+Patient_13,62,Female,90,149/93,97.3,90,fever,HIGH
+Patient_14,89,Female,80,153/71,96.7,86,fever,HIGH
+Patient_15,60,Female,89,132/94,103.4,93,chest pain,HIGH
+Patient_16,79,Female,76,117/77,96.7,97,fever,LOW
+Patient_17,68,Female,91,134/79,99.0,97,chest pain,LOW
+Patient_18,88,Male,92,145/89,103.9,88,none,HIGH
+Patient_19,77,Male,115,159/81,103.5,99,none,HIGH
+Patient_20,90,Male,123,145/76,101.0,85,fever,HIGH
+Patient_21,66,Male,116,152/78,100.3,91,none,HIGH
+Patient_22,75,Female,91,120/75,96.4,89,fatigue,HIGH
+Patient_23,98,Female,119,147/88,100.8,95,cough,HIGH
+Patient_24,92,Male,88,126/87,99.2,89,cough,HIGH
+Patient_25,85,Female,82,141/82,102.8,89,none,HIGH
+Patient_26,96,Male,111,158/85,101.8,85,chest pain,HIGH
+Patient_27,62,Female,52,128/76,97.8,93,dizziness,LOW
+Patient_28,86,Male,51,150/75,96.1,95,none,LOW
+Patient_29,70,Female,124,134/94,97.7,89,cough,HIGH
+Patient_30,62,Male,111,157/79,98.6,100,dizziness,HIGH
+Patient_31,79,Female,77,151/87,96.6,86,fatigue,HIGH
+Patient_32,73,Male,103,149/75,102.7,92,fever,HIGH
+Patient_33,95,Female,54,135/95,100.2,88,dizziness,HIGH
+Patient_34,73,Male,64,140/97,97.4,91,none,HIGH
+Patient_35,92,Female,70,120/89,98.0,95,fever,LOW
+Patient_36,96,Female,87,111/96,96.7,100,fever,LOW
+Patient_37,77,Female,126,159/77,99.8,92,none,HIGH
+Patient_38,97,Female,107,131/84,102.5,100,dizziness,HIGH
+Patient_39,75,Female,109,120/76,101.1,93,fatigue,HIGH
+Patient_40,76,Male,93,129/72,100.3,85,dizziness,HIGH
+Patient_41,75,Male,53,152/90,102.8,88,dizziness,HIGH
+Patient_42,94,Female,76,159/100,96.9,95,chest pain,LOW
+Patient_43,91,Female,89,159/92,99.1,97,fatigue,MEDIUM
+Patient_44,81,Male,107,152/88,97.3,89,fever,HIGH
+Patient_45,75,Female,90,112/76,99.3,90,fever,HIGH
+Patient_46,98,Female,62,127/84,99.4,88,none,HIGH
+Patient_47,93,Female,72,132/94,96.1,88,cough,HIGH
+Patient_48,85,Female,98,156/80,102.1,85,fever,HIGH
+Patient_49,77,Male,98,152/87,97.0,88,cough,HIGH
+Patient_50,84,Female,54,136/95,98.5,85,fatigue,HIGH
+Patient_51,62,Female,107,120/81,100.9,98,chest pain,MEDIUM
+Patient_52,89,Female,101,137/71,104.0,85,cough,HIGH
+Patient_53,74,Male,128,125/99,98.2,91,fatigue,HIGH
+Patient_54,62,Male,57,144/90,100.9,100,none,MEDIUM
+Patient_55,93,Female,74,154/84,97.1,86,cough,HIGH
+Patient_56,79,Male,101,128/72,100.1,87,none,HIGH
+Patient_57,91,Female,119,127/94,101.0,86,cough,HIGH
+Patient_58,100,Male,121,138/81,102.8,86,dizziness,HIGH
+Patient_59,87,Male,122,115/89,99.5,91,fever,HIGH
+Patient_60,69,Female,69,148/74,97.8,87,dizziness,HIGH
+Patient_61,99,Female,56,149/97,96.5,98,dizziness,LOW
+Patient_62,68,Male,85,150/89,100.1,89,none,HIGH
+Patient_63,89,Male,59,124/70,96.2,96,fever,LOW
+Patient_64,80,Male,113,142/88,101.1,91,fatigue,HIGH
+Patient_65,64,Female,51,140/85,97.9,86,chest pain,HIGH
+Patient_66,67,Female,107,135/75,101.3,100,dizziness,HIGH
+Patient_67,62,Male,115,137/95,100.5,91,none,HIGH
+Patient_68,93,Female,104,149/88,102.8,89,cough,HIGH
+Patient_69,94,Female,73,135/84,102.6,91,none,HIGH
+Patient_70,79,Female,111,130/85,100.1,86,fever,HIGH
+Patient_71,88,Female,58,160/96,101.5,90,dizziness,HIGH
+Patient_72,72,Male,68,140/87,98.8,86,none,HIGH
+Patient_73,82,Male,99,111/86,102.0,95,fatigue,HIGH
+Patient_74,60,Female,95,129/100,102.2,87,chest pain,HIGH
+Patient_75,61,Male,77,120/88,97.0,86,fever,HIGH
+Patient_76,85,Male,76,125/88,98.2,95,fatigue,LOW
+Patient_77,62,Male,112,128/82,99.5,87,none,HIGH
+Patient_78,83,Female,117,129/74,103.7,91,none,HIGH
+Patient_79,93,Male,85,118/97,99.0,90,chest pain,HIGH
+Patient_80,87,Male,98,116/86,103.2,93,cough,HIGH
+Patient_81,99,Female,83,139/79,100.8,88,dizziness,HIGH
+Patient_82,83,Female,51,141/78,99.2,94,fatigue,MEDIUM
+Patient_83,67,Male,83,122/87,102.9,85,cough,HIGH
+Patient_84,71,Female,54,159/74,101.9,90,dizziness,HIGH
+Patient_85,92,Male,58,115/94,98.9,89,none,HIGH
+Patient_86,74,Female,55,112/76,97.6,98,fever,LOW
+Patient_87,91,Male,126,138/80,101.9,87,cough,HIGH
+Patient_88,61,Female,90,124/71,100.5,89,cough,HIGH
+Patient_89,98,Male,122,157/88,96.9,95,chest pain,HIGH
+Patient_90,74,Female,61,115/84,98.4,95,fever,LOW
+Patient_91,77,Female,68,148/73,96.4,99,fever,LOW
+Patient_92,75,Female,97,114/91,102.5,98,fatigue,HIGH
+Patient_93,77,Female,51,160/91,97.5,94,none,LOW
+Patient_94,91,Female,113,117/86,99.8,88,chest pain,HIGH
+Patient_95,94,Female,100,156/87,97.8,100,fatigue,MEDIUM
+Patient_96,88,Female,105,110/79,101.8,88,chest pain,HIGH
+Patient_97,71,Female,122,153/98,100.3,97,none,HIGH
+Patient_98,100,Male,75,126/74,103.1,96,none,HIGH
+Patient_99,70,Male,130,123/93,99.5,90,chest pain,HIGH
+Patient_100,74,Male,61,159/79,101.6,97,none,HIGH
+Patient_101,70,Male,68,144/98,97.4,96,chest pain,LOW
+Patient_102,60,Male,127,121/84,101.6,100,chest pain,HIGH
+Patient_103,99,Male,53,150/98,96.2,87,fatigue,HIGH
+Patient_104,63,Female,104,120/70,104.0,97,none,HIGH
+Patient_105,62,Female,72,160/99,101.9,92,dizziness,HIGH
+Patient_106,63,Female,75,121/77,103.6,95,fatigue,HIGH
+Patient_107,63,Male,105,112/78,97.4,91,fever,HIGH
+Patient_108,75,Male,79,134/89,100.6,86,fever,HIGH
+Patient_109,61,Female,64,148/79,99.9,89,none,HIGH
+Patient_110,64,Female,60,139/89,100.5,91,none,HIGH
+Patient_111,83,Female,120,128/79,103.3,95,none,HIGH
+Patient_112,86,Female,111,112/90,101.1,99,fever,HIGH
+Patient_113,97,Female,97,127/88,100.8,92,none,MEDIUM
+Patient_114,87,Female,52,144/93,98.0,100,cough,LOW
+Patient_115,63,Female,96,118/100,98.9,97,fever,MEDIUM
+Patient_116,69,Male,108,152/79,103.8,87,none,HIGH
+Patient_117,65,Male,69,114/73,98.2,89,cough,HIGH
+Patient_118,82,Male,64,134/96,98.7,94,chest pain,LOW
+Patient_119,68,Male,68,160/77,101.5,88,cough,HIGH
+Patient_120,63,Male,81,142/95,97.4,94,cough,LOW
+Patient_121,85,Female,130,135/89,101.2,90,cough,HIGH
+Patient_122,84,Female,72,145/81,102.5,90,dizziness,HIGH
+Patient_123,78,Female,122,138/100,97.2,97,chest pain,HIGH
+Patient_124,76,Male,130,127/100,102.2,92,dizziness,HIGH
+Patient_125,80,Female,107,135/74,97.9,91,chest pain,HIGH
+Patient_126,83,Male,79,156/83,100.7,100,fatigue,MEDIUM
+Patient_127,70,Female,73,135/91,99.0,94,dizziness,LOW
+Patient_128,71,Female,86,149/77,102.7,91,cough,HIGH
+Patient_129,88,Male,69,159/70,97.9,85,cough,HIGH
+Patient_130,79,Male,70,151/70,100.4,92,fever,MEDIUM
+Patient_131,68,Female,77,110/93,103.7,92,cough,HIGH
+Patient_132,73,Female,98,133/81,98.4,96,fever,MEDIUM
+Patient_133,92,Male,78,128/98,101.4,92,fever,HIGH
+Patient_134,83,Male,94,158/78,98.3,88,none,HIGH
+Patient_135,82,Male,124,142/70,100.1,95,cough,HIGH
+Patient_136,100,Male,106,157/91,97.7,94,none,MEDIUM
+Patient_137,84,Female,103,146/83,97.7,89,fever,HIGH
+Patient_138,61,Female,82,154/80,97.7,85,cough,HIGH
+Patient_139,67,Male,50,138/96,99.2,93,none,MEDIUM
+Patient_140,64,Male,96,125/84,97.0,92,fever,MEDIUM
+Patient_141,66,Male,87,115/73,98.0,95,none,LOW
+Patient_142,74,Male,85,125/79,100.1,93,none,MEDIUM
+Patient_143,69,Male,91,137/79,96.9,87,fatigue,HIGH
+Patient_144,66,Male,74,127/95,100.0,94,chest pain,MEDIUM
+Patient_145,71,Male,130,155/74,100.9,97,fever,HIGH
+Patient_146,93,Male,105,154/82,98.3,95,dizziness,MEDIUM
+Patient_147,74,Male,54,121/98,101.7,87,cough,HIGH
+Patient_148,74,Female,121,134/85,99.7,90,fever,HIGH
+Patient_149,99,Female,69,112/80,99.3,88,chest pain,HIGH
+Patient_150,61,Female,115,156/88,97.3,86,none,HIGH
+Patient_151,80,Female,111,135/90,101.3,99,none,HIGH
+Patient_152,70,Female,112,124/81,96.0,86,fatigue,HIGH
+Patient_153,83,Male,62,118/94,102.4,88,fatigue,HIGH
+Patient_154,75,Female,127,143/79,98.2,90,dizziness,HIGH
+Patient_155,65,Female,111,118/95,97.0,97,cough,HIGH
+Patient_156,85,Female,62,117/84,103.7,91,cough,HIGH
+Patient_157,76,Female,129,144/86,101.2,99,dizziness,HIGH
+Patient_158,60,Female,105,145/93,97.4,93,fever,MEDIUM
+Patient_159,60,Male,128,127/82,101.2,93,chest pain,HIGH
+Patient_160,76,Male,84,139/72,99.4,100,cough,MEDIUM
+Patient_161,68,Male,87,112/93,96.8,94,fatigue,LOW
+Patient_162,74,Male,90,122/92,100.8,90,cough,HIGH
+Patient_163,81,Male,74,149/86,102.7,98,none,HIGH
+Patient_164,80,Female,104,123/93,97.3,90,none,HIGH
+Patient_165,71,Female,99,120/92,101.5,85,chest pain,HIGH
+Patient_166,88,Male,70,160/74,98.6,91,chest pain,HIGH
+Patient_167,80,Male,113,143/75,101.3,92,fatigue,HIGH
+Patient_168,99,Female,114,150/99,102.5,92,fatigue,HIGH
+Patient_169,62,Male,54,123/81,100.8,85,fever,HIGH
+Patient_170,79,Male,113,160/79,98.7,95,fatigue,HIGH
+Patient_171,61,Male,126,117/86,101.0,85,fatigue,HIGH
+Patient_172,67,Male,55,157/81,96.2,90,fatigue,HIGH
+Patient_173,92,Female,115,155/70,101.7,97,fever,HIGH
+Patient_174,93,Male,111,153/76,96.6,91,dizziness,HIGH
+Patient_175,60,Male,57,133/98,97.6,96,fever,LOW
+Patient_176,75,Male,107,123/98,97.2,96,cough,MEDIUM
+Patient_177,71,Female,75,122/93,101.3,87,dizziness,HIGH
+Patient_178,78,Male,119,147/78,96.9,89,fatigue,HIGH
+Patient_179,65,Male,85,154/78,103.9,89,chest pain,HIGH
+Patient_180,72,Female,120,141/90,100.3,95,none,HIGH
+Patient_181,64,Female,93,134/95,97.0,93,cough,LOW
+Patient_182,72,Female,94,129/99,98.7,94,dizziness,LOW
+Patient_183,74,Female,56,116/72,103.8,85,chest pain,HIGH
+Patient_184,66,Female,57,111/74,102.2,87,dizziness,HIGH
+Patient_185,95,Female,51,147/83,97.7,86,fatigue,HIGH
+Patient_186,75,Female,82,118/71,102.1,97,none,HIGH
+Patient_187,97,Male,106,149/72,100.1,88,cough,HIGH
+Patient_188,88,Male,129,152/74,101.6,99,fatigue,HIGH
+Patient_189,72,Female,84,156/90,97.5,90,none,HIGH
+Patient_190,85,Female,72,126/80,98.6,92,cough,LOW
+Patient_191,62,Male,100,153/77,100.4,90,cough,HIGH
+Patient_192,66,Male,93,113/76,99.1,88,fever,HIGH
+Patient_193,89,Male,80,128/94,101.7,86,dizziness,HIGH
+Patient_194,64,Male,116,139/89,103.9,96,fatigue,HIGH
+Patient_195,89,Male,116,118/88,100.6,93,cough,HIGH
+Patient_196,76,Female,55,160/70,96.8,91,fever,HIGH
+Patient_197,60,Female,70,125/89,98.7,87,cough,HIGH
+Patient_198,75,Female,122,120/94,97.5,97,dizziness,HIGH
+Patient_199,98,Male,113,138/76,103.0,89,fatigue,HIGH
+Patient_200,64,Female,111,125/79,102.5,92,dizziness,HIGH
+Patient_201,88,Male,128,125/81,103.1,99,cough,HIGH
+Patient_202,61,Female,106,141/80,98.1,86,cough,HIGH
+Patient_203,69,Female,85,148/88,99.5,98,cough,MEDIUM
+Patient_204,66,Female,92,150/81,102.2,99,dizziness,HIGH
+Patient_205,63,Male,59,151/86,101.1,96,chest pain,HIGH
+Patient_206,91,Female,76,112/86,103.8,92,fever,HIGH
+Patient_207,72,Female,75,112/75,100.8,98,fever,MEDIUM
+Patient_208,93,Female,104,137/99,103.2,92,dizziness,HIGH
+Patient_209,73,Female,74,132/74,103.8,85,fever,HIGH
+Patient_210,60,Male,58,155/100,100.7,97,none,MEDIUM
+Patient_211,95,Female,76,112/87,96.3,89,chest pain,HIGH
+Patient_212,77,Female,90,158/80,99.6,89,none,HIGH
+Patient_213,72,Female,99,113/76,99.7,94,none,MEDIUM
+Patient_214,79,Male,81,160/89,102.4,98,none,HIGH
+Patient_215,68,Female,53,116/78,99.3,86,none,HIGH
+Patient_216,73,Male,68,157/98,96.9,91,cough,HIGH
+Patient_217,99,Female,51,144/86,104.0,87,dizziness,HIGH
+Patient_218,70,Female,86,148/100,101.8,94,none,HIGH
+Patient_219,94,Female,70,155/94,96.3,94,cough,LOW
+Patient_220,85,Female,82,160/76,98.1,88,cough,HIGH
+Patient_221,66,Female,56,155/97,98.9,87,fever,HIGH
+Patient_222,64,Male,87,160/71,101.9,88,cough,HIGH
+Patient_223,98,Male,81,113/86,99.8,93,fever,MEDIUM
+Patient_224,84,Female,99,137/97,103.7,86,chest pain,HIGH
+Patient_225,67,Female,118,114/77,97.4,100,fatigue,HIGH
+Patient_226,82,Female,66,117/88,103.0,89,none,HIGH
+Patient_227,99,Female,81,141/80,98.9,96,fatigue,LOW
+Patient_228,97,Male,67,138/96,100.1,88,none,HIGH
+Patient_229,72,Male,51,151/92,103.9,96,fever,HIGH
+Patient_230,72,Female,75,131/91,101.1,91,none,HIGH
+Patient_231,68,Female,59,158/75,96.0,88,fever,HIGH
+Patient_232,86,Female,92,136/77,96.2,85,cough,HIGH
+Patient_233,97,Male,69,146/89,102.5,91,cough,HIGH
+Patient_234,67,Female,86,122/85,97.8,85,none,HIGH
+Patient_235,71,Female,84,115/77,103.4,99,fatigue,HIGH
+Patient_236,70,Male,84,144/73,102.3,95,none,HIGH
+Patient_237,73,Female,114,128/77,98.4,85,chest pain,HIGH
+Patient_238,87,Female,114,120/97,96.8,86,fever,HIGH
+Patient_239,75,Female,89,150/100,101.1,96,fever,HIGH
+Patient_240,97,Female,100,132/89,101.7,90,fever,HIGH
+Patient_241,80,Male,69,137/90,102.5,86,cough,HIGH
+Patient_242,75,Female,69,155/93,98.9,93,cough,LOW
+Patient_243,66,Male,93,143/96,99.2,96,fever,MEDIUM
+Patient_244,72,Female,63,159/82,96.8,99,fever,LOW
+Patient_245,63,Male,129,145/80,97.1,100,dizziness,HIGH
+Patient_246,67,Male,85,159/95,102.6,86,fatigue,HIGH
+Patient_247,100,Male,90,132/76,97.9,93,none,LOW
+Patient_248,71,Male,53,126/94,99.1,98,dizziness,MEDIUM
+Patient_249,80,Female,63,121/85,102.5,85,dizziness,HIGH
+Patient_250,98,Female,81,147/83,101.2,92,cough,HIGH
+Patient_251,96,Female,95,127/70,101.2,88,cough,HIGH
+Patient_252,79,Female,61,160/73,100.3,91,dizziness,HIGH
+Patient_253,76,Male,93,119/73,97.7,97,dizziness,LOW
+Patient_254,64,Female,91,148/93,98.2,93,none,LOW
+Patient_255,97,Female,63,122/95,100.7,95,dizziness,MEDIUM
+Patient_256,93,Male,104,110/70,100.0,99,fever,MEDIUM
+Patient_257,92,Male,105,125/97,100.7,99,fatigue,MEDIUM
+Patient_258,85,Male,115,130/75,100.4,90,fever,HIGH
+Patient_259,61,Male,83,139/74,102.9,94,dizziness,HIGH
+Patient_260,69,Male,63,134/80,103.5,93,chest pain,HIGH
+Patient_261,63,Male,100,132/76,97.7,99,fever,MEDIUM
+Patient_262,89,Male,61,131/99,98.3,87,dizziness,HIGH
+Patient_263,81,Female,82,123/95,101.7,100,dizziness,HIGH
+Patient_264,85,Male,84,127/73,102.0,97,fatigue,HIGH
+Patient_265,74,Female,124,156/100,103.0,98,fever,HIGH
+Patient_266,77,Male,85,121/81,97.6,97,fever,LOW
+Patient_267,80,Female,72,133/71,99.9,99,dizziness,MEDIUM
+Patient_268,90,Male,98,141/74,102.6,85,dizziness,HIGH
+Patient_269,91,Male,92,144/76,98.6,96,none,LOW
+Patient_270,76,Male,62,129/80,101.5,99,chest pain,HIGH
+Patient_271,72,Male,76,152/93,96.9,100,none,LOW
+Patient_272,91,Male,65,121/73,100.6,91,chest pain,HIGH
+Patient_273,71,Female,115,110/92,101.5,95,fatigue,HIGH
+Patient_274,87,Male,124,135/91,103.3,98,cough,HIGH
+Patient_275,65,Female,93,138/86,98.6,90,dizziness,HIGH
+Patient_276,89,Female,127,135/72,102.1,88,fatigue,HIGH
+Patient_277,85,Female,105,144/98,97.8,91,fatigue,HIGH
+Patient_278,76,Female,93,152/86,97.7,91,cough,HIGH
+Patient_279,89,Female,129,126/91,101.7,95,none,HIGH
+Patient_280,90,Female,96,159/95,96.2,86,fever,HIGH
+Patient_281,91,Male,90,135/79,103.0,96,fever,HIGH
+Patient_282,81,Female,80,142/79,103.5,86,fever,HIGH
+Patient_283,78,Male,126,146/81,102.9,87,dizziness,HIGH
+Patient_284,64,Female,100,148/83,99.4,97,none,MEDIUM
+Patient_285,95,Male,127,111/73,96.3,85,none,HIGH
+Patient_286,92,Female,117,111/85,96.2,98,chest pain,HIGH
+Patient_287,87,Female,99,111/74,103.7,90,fever,HIGH
+Patient_288,92,Male,127,148/79,101.4,91,none,HIGH
+Patient_289,72,Male,75,152/100,100.1,96,chest pain,MEDIUM
+Patient_290,88,Female,54,129/84,103.7,96,dizziness,HIGH
+Patient_291,61,Female,57,135/89,99.1,91,cough,HIGH
+Patient_292,99,Male,128,123/83,96.9,85,fatigue,HIGH
+Patient_293,75,Female,102,130/97,101.2,88,cough,HIGH
+Patient_294,67,Female,52,143/95,96.9,99,fatigue,LOW
+Patient_295,67,Male,108,160/81,97.9,90,fever,HIGH
+Patient_296,89,Female,91,131/76,103.1,98,chest pain,HIGH
+Patient_297,100,Male,65,125/88,99.5,86,dizziness,HIGH
+Patient_298,64,Female,130,144/82,103.4,87,fatigue,HIGH
+Patient_299,97,Female,63,146/95,102.9,89,cough,HIGH
+Patient_300,91,Female,122,136/72,100.3,88,fatigue,HIGH
+Patient_301,67,Male,58,113/90,100.5,88,dizziness,HIGH
+Patient_302,83,Male,119,125/77,101.2,97,cough,HIGH
+Patient_303,80,Female,111,128/79,103.3,98,none,HIGH
+Patient_304,96,Male,75,147/80,97.5,97,cough,LOW
+Patient_305,82,Female,90,117/87,102.4,97,fatigue,HIGH
+Patient_306,60,Female,112,112/85,101.7,91,chest pain,HIGH
+Patient_307,65,Female,84,138/93,98.0,92,none,LOW
+Patient_308,95,Male,129,148/96,102.8,91,fatigue,HIGH
+Patient_309,67,Male,68,155/72,102.7,96,fatigue,HIGH
+Patient_310,89,Male,127,155/73,98.3,94,none,HIGH
+Patient_311,98,Female,92,146/74,100.2,94,fever,MEDIUM
+Patient_312,62,Female,94,147/98,96.8,88,dizziness,HIGH
+Patient_313,79,Female,130,152/85,96.9,97,none,HIGH
+Patient_314,77,Female,118,152/92,97.5,89,cough,HIGH
+Patient_315,82,Male,88,124/84,97.5,92,none,LOW
+Patient_316,81,Male,61,133/82,96.2,86,fever,HIGH
+Patient_317,99,Female,78,151/85,99.1,86,fatigue,HIGH
+Patient_318,71,Male,115,139/97,103.5,94,fever,HIGH
+Patient_319,79,Female,124,155/87,101.3,90,fever,HIGH
+Patient_320,61,Female,114,132/73,97.0,95,cough,HIGH
+Patient_321,78,Male,52,131/91,101.1,88,fatigue,HIGH
+Patient_322,63,Male,58,130/95,97.6,88,chest pain,HIGH
+Patient_323,97,Male,54,128/100,99.9,97,fatigue,MEDIUM
+Patient_324,80,Female,87,116/83,102.9,92,chest pain,HIGH
+Patient_325,60,Female,84,143/80,101.1,91,dizziness,HIGH
+Patient_326,92,Male,58,119/78,96.7,87,dizziness,HIGH
+Patient_327,82,Male,95,140/99,98.4,100,fever,LOW
+Patient_328,63,Male,64,121/93,96.4,96,dizziness,LOW
+Patient_329,97,Male,114,113/82,100.1,91,dizziness,HIGH
+Patient_330,85,Male,127,126/71,101.2,88,fever,HIGH
+Patient_331,67,Female,116,149/76,99.8,88,fatigue,HIGH
+Patient_332,83,Male,115,145/97,102.1,97,cough,HIGH
+Patient_333,97,Male,113,127/82,97.3,98,none,HIGH
+Patient_334,72,Female,56,125/84,98.7,98,cough,LOW
+Patient_335,92,Female,57,114/100,102.2,91,none,HIGH
+Patient_336,73,Female,58,155/99,98.4,97,chest pain,LOW
+Patient_337,79,Female,108,160/70,101.5,98,dizziness,HIGH
+Patient_338,89,Female,59,130/83,98.1,87,none,HIGH
+Patient_339,73,Female,62,112/77,97.9,98,chest pain,LOW
+Patient_340,98,Female,60,112/92,100.6,85,none,HIGH
+Patient_341,65,Female,101,120/75,98.0,93,fever,MEDIUM
+Patient_342,63,Female,92,150/89,103.5,92,none,HIGH
+Patient_343,90,Female,72,131/79,99.4,90,cough,HIGH
+Patient_344,85,Female,129,148/81,101.6,90,fever,HIGH
+Patient_345,88,Female,64,139/87,96.2,97,chest pain,LOW
+Patient_346,73,Male,62,133/80,97.0,98,fever,LOW
+Patient_347,96,Male,72,155/100,98.8,93,dizziness,LOW
+Patient_348,84,Female,64,147/94,103.2,100,none,HIGH
+Patient_349,94,Male,124,138/82,99.3,99,none,HIGH
+Patient_350,82,Female,116,137/85,103.9,85,dizziness,HIGH
+Patient_351,64,Female,64,118/70,103.4,93,chest pain,HIGH
+Patient_352,67,Female,58,153/91,100.8,96,dizziness,MEDIUM
+Patient_353,97,Male,124,151/96,100.3,97,cough,HIGH
+Patient_354,86,Female,88,148/82,100.0,91,fever,HIGH
+Patient_355,98,Male,128,132/91,96.5,92,dizziness,HIGH
+Patient_356,68,Male,62,138/100,101.5,85,fatigue,HIGH
+Patient_357,75,Female,77,125/93,104.0,92,cough,HIGH
+Patient_358,70,Male,81,159/95,101.0,98,fever,MEDIUM
+Patient_359,65,Female,101,138/84,99.4,94,cough,MEDIUM
+Patient_360,75,Male,93,128/85,100.8,98,dizziness,MEDIUM
+Patient_361,68,Female,55,157/76,98.8,89,fever,HIGH
+Patient_362,68,Male,100,112/73,103.0,93,fever,HIGH
+Patient_363,83,Male,113,110/95,103.6,95,fever,HIGH
+Patient_364,80,Male,57,135/94,100.4,91,fever,HIGH
+Patient_365,91,Male,89,118/73,103.9,100,fatigue,HIGH
+Patient_366,94,Male,109,132/75,101.8,88,cough,HIGH
+Patient_367,79,Female,97,151/94,98.3,85,dizziness,HIGH
+Patient_368,88,Male,92,156/86,99.4,85,chest pain,HIGH
+Patient_369,70,Female,81,158/79,103.7,100,fever,HIGH
+Patient_370,85,Female,121,150/87,102.4,85,cough,HIGH
+Patient_371,92,Male,73,157/71,103.0,91,dizziness,HIGH
+Patient_372,85,Female,79,115/95,102.9,98,chest pain,HIGH
+Patient_373,62,Male,110,124/94,99.0,91,dizziness,HIGH
+Patient_374,81,Female,94,118/95,102.9,90,fatigue,HIGH
+Patient_375,70,Female,115,124/96,101.1,99,fever,HIGH
+Patient_376,97,Female,113,154/84,96.9,98,cough,HIGH
+Patient_377,92,Male,126,158/82,101.5,99,dizziness,HIGH
+Patient_378,100,Male,85,115/73,100.3,90,fatigue,HIGH
+Patient_379,100,Male,78,124/76,102.7,89,fatigue,HIGH
+Patient_380,64,Female,118,131/97,103.4,93,fever,HIGH
+Patient_381,99,Male,130,113/80,97.3,96,dizziness,HIGH
+Patient_382,85,Female,90,159/79,101.7,95,none,HIGH
+Patient_383,100,Male,59,117/72,102.6,92,dizziness,HIGH
+Patient_384,96,Male,122,125/70,101.4,93,cough,HIGH
+Patient_385,86,Female,69,142/72,103.4,88,chest pain,HIGH
+Patient_386,62,Female,119,146/71,97.9,97,none,HIGH
+Patient_387,91,Male,72,113/99,98.7,96,fever,LOW
+Patient_388,90,Male,56,137/74,96.6,92,none,LOW
+Patient_389,63,Female,125,123/82,100.1,92,dizziness,HIGH
+Patient_390,89,Male,71,131/92,97.9,93,cough,LOW
+Patient_391,64,Female,93,111/95,97.9,87,cough,HIGH
+Patient_392,65,Female,110,111/98,103.5,93,dizziness,HIGH
+Patient_393,87,Female,53,137/78,97.9,90,none,HIGH
+Patient_394,98,Female,116,154/75,100.1,100,none,HIGH
+Patient_395,82,Female,94,141/89,100.2,89,none,HIGH
+Patient_396,91,Female,123,134/77,96.7,90,dizziness,HIGH
+Patient_397,77,Female,52,160/89,99.4,99,fatigue,MEDIUM
+Patient_398,91,Male,53,129/92,100.7,92,cough,MEDIUM
+Patient_399,99,Male,70,144/82,97.5,93,chest pain,LOW
+Patient_400,93,Female,73,121/91,100.5,89,none,HIGH
+Patient_401,95,Male,113,140/96,101.3,88,dizziness,HIGH
+Patient_402,66,Female,113,148/71,96.1,88,fatigue,HIGH
+Patient_403,91,Female,51,148/89,100.2,93,dizziness,MEDIUM
+Patient_404,71,Female,84,111/85,99.4,86,cough,HIGH
+Patient_405,88,Female,112,157/73,96.9,87,cough,HIGH
+Patient_406,100,Female,120,144/74,100.6,98,chest pain,HIGH
+Patient_407,78,Male,128,152/93,96.1,97,dizziness,HIGH
+Patient_408,68,Female,108,114/71,103.2,91,chest pain,HIGH
+Patient_409,68,Male,87,135/70,96.6,85,dizziness,HIGH
+Patient_410,75,Male,55,128/94,103.3,85,dizziness,HIGH
+Patient_411,77,Male,121,146/72,99.5,95,dizziness,HIGH
+Patient_412,97,Female,114,148/89,100.0,93,dizziness,HIGH
+Patient_413,65,Male,62,135/93,102.5,88,fatigue,HIGH
+Patient_414,100,Female,77,133/85,101.9,93,fatigue,HIGH
+Patient_415,97,Female,54,129/96,97.8,98,dizziness,LOW
+Patient_416,81,Female,112,130/87,100.7,95,chest pain,HIGH
+Patient_417,61,Male,95,130/96,100.3,91,fatigue,HIGH
+Patient_418,63,Male,84,116/80,99.2,90,cough,HIGH
+Patient_419,84,Female,80,131/71,102.3,92,fatigue,HIGH
+Patient_420,79,Female,114,150/96,98.4,88,fatigue,HIGH
+Patient_421,69,Female,115,137/91,103.6,92,dizziness,HIGH
+Patient_422,72,Female,67,115/79,100.2,90,none,HIGH
+Patient_423,69,Female,107,134/82,102.9,91,cough,HIGH
+Patient_424,70,Female,70,125/98,96.2,88,none,HIGH
+Patient_425,67,Male,118,137/91,103.5,99,none,HIGH
+Patient_426,91,Female,64,119/100,96.3,89,chest pain,HIGH
+Patient_427,66,Female,97,154/77,99.2,86,fatigue,HIGH
+Patient_428,73,Male,100,142/78,103.9,95,fatigue,HIGH
+Patient_429,79,Female,105,143/100,102.2,91,chest pain,HIGH
+Patient_430,75,Female,78,151/87,99.7,92,dizziness,MEDIUM
+Patient_431,66,Male,50,134/70,101.0,91,dizziness,HIGH
+Patient_432,97,Male,67,117/72,101.9,85,none,HIGH
+Patient_433,92,Female,113,119/82,100.4,90,chest pain,HIGH
+Patient_434,87,Female,70,132/72,102.1,94,fever,HIGH
+Patient_435,76,Female,51,146/84,98.5,88,cough,HIGH
+Patient_436,93,Male,94,129/75,102.5,89,chest pain,HIGH
+Patient_437,68,Female,111,133/81,96.5,91,chest pain,HIGH
+Patient_438,71,Male,109,136/98,100.6,89,none,HIGH
+Patient_439,99,Male,95,134/86,100.8,100,none,MEDIUM
+Patient_440,67,Female,79,120/85,103.7,98,cough,HIGH
+Patient_441,91,Female,112,114/97,102.3,99,chest pain,HIGH
+Patient_442,68,Male,70,151/94,103.0,96,chest pain,HIGH
+Patient_443,88,Female,90,156/96,99.3,88,none,HIGH
+Patient_444,87,Female,121,155/90,102.5,100,dizziness,HIGH
+Patient_445,81,Female,96,138/72,96.1,96,dizziness,MEDIUM
+Patient_446,62,Male,120,121/82,96.2,94,chest pain,HIGH
+Patient_447,80,Female,74,129/75,100.4,97,dizziness,MEDIUM
+Patient_448,84,Female,106,154/81,99.0,93,chest pain,MEDIUM
+Patient_449,68,Female,110,114/77,101.7,88,fatigue,HIGH
+Patient_450,71,Male,56,123/83,102.1,85,dizziness,HIGH
+Patient_451,60,Male,91,122/97,101.0,86,dizziness,HIGH
+Patient_452,90,Female,123,137/100,103.5,94,chest pain,HIGH
+Patient_453,90,Female,108,116/89,102.6,93,chest pain,HIGH
+Patient_454,88,Male,74,113/85,102.9,95,cough,HIGH
+Patient_455,86,Female,95,137/76,97.4,94,dizziness,LOW
+Patient_456,95,Female,85,154/78,100.4,88,chest pain,HIGH
+Patient_457,75,Female,127,149/70,99.8,91,none,HIGH
+Patient_458,71,Male,98,127/78,99.5,89,dizziness,HIGH
+Patient_459,95,Female,126,160/80,103.1,86,cough,HIGH
+Patient_460,77,Female,96,147/83,98.7,92,chest pain,MEDIUM
+Patient_461,67,Male,120,127/85,102.1,90,dizziness,HIGH
+Patient_462,79,Female,129,120/88,99.6,95,cough,HIGH
+Patient_463,80,Male,80,112/77,100.7,100,cough,MEDIUM
+Patient_464,97,Male,108,118/73,97.8,97,fever,MEDIUM
+Patient_465,75,Female,65,110/70,100.2,92,cough,MEDIUM
+Patient_466,86,Male,66,134/80,101.8,95,fever,HIGH
+Patient_467,62,Male,122,125/92,97.3,90,fever,HIGH
+Patient_468,69,Male,91,138/74,99.9,86,fever,HIGH
+Patient_469,97,Female,53,142/99,100.0,91,none,HIGH
+Patient_470,87,Male,107,143/83,99.0,92,fatigue,MEDIUM
+Patient_471,73,Female,57,139/100,99.1,94,dizziness,MEDIUM
+Patient_472,67,Male,111,156/99,101.6,91,fever,HIGH
+Patient_473,95,Female,70,110/96,98.9,86,fatigue,HIGH
+Patient_474,65,Male,94,122/77,103.3,95,dizziness,HIGH
+Patient_475,76,Male,61,110/75,100.9,97,none,MEDIUM
+Patient_476,95,Female,89,140/80,98.0,89,cough,HIGH
+Patient_477,63,Female,95,132/86,101.9,97,chest pain,HIGH
+Patient_478,98,Male,125,129/96,96.3,86,cough,HIGH
+Patient_479,78,Female,83,155/98,101.4,100,none,HIGH
+Patient_480,80,Male,59,115/72,101.0,100,fatigue,MEDIUM
+Patient_481,79,Male,67,151/80,99.3,99,chest pain,MEDIUM
+Patient_482,82,Male,110,147/71,103.7,98,chest pain,HIGH
+Patient_483,80,Male,56,117/78,100.1,98,chest pain,MEDIUM
+Patient_484,99,Male,80,148/80,100.1,87,chest pain,HIGH
+Patient_485,97,Female,112,147/83,96.5,99,chest pain,HIGH
+Patient_486,86,Male,75,148/84,99.5,90,cough,HIGH
+Patient_487,72,Female,62,153/97,102.4,100,fatigue,HIGH
+Patient_488,89,Female,129,145/78,103.9,91,fatigue,HIGH
+Patient_489,73,Male,121,137/72,101.7,96,dizziness,HIGH
+Patient_490,69,Male,117,133/84,101.1,85,fever,HIGH
+Patient_491,69,Male,85,119/80,102.4,87,cough,HIGH
+Patient_492,92,Male,99,136/88,102.4,97,fatigue,HIGH
+Patient_493,92,Male,85,123/75,98.8,97,fever,LOW
+Patient_494,62,Female,69,122/93,101.4,85,dizziness,HIGH
+Patient_495,86,Male,56,148/71,102.8,91,none,HIGH
+Patient_496,62,Male,87,116/76,101.6,86,cough,HIGH
+Patient_497,70,Male,127,136/78,96.1,87,chest pain,HIGH
+Patient_498,100,Male,60,158/70,99.4,91,none,HIGH
+Patient_499,61,Female,61,117/72,103.4,87,fatigue,HIGH
+Patient_500,87,Male,66,112/71,103.6,86,chest pain,HIGH
+Patient_501,83,Female,126,137/91,97.2,95,chest pain,HIGH
+Patient_502,96,Female,71,146/85,98.3,90,dizziness,HIGH
+Patient_503,62,Male,88,140/77,100.1,96,fatigue,MEDIUM
+Patient_504,68,Female,50,118/86,103.8,91,cough,HIGH
+Patient_505,66,Male,54,115/80,100.6,93,none,MEDIUM
+Patient_506,83,Male,61,150/89,100.3,97,dizziness,MEDIUM
+Patient_507,93,Female,76,147/91,98.4,87,cough,HIGH
+Patient_508,62,Male,130,138/88,97.8,95,dizziness,HIGH
+Patient_509,84,Male,114,150/93,98.6,96,none,HIGH
+Patient_510,87,Male,117,128/91,96.8,91,none,HIGH
+Patient_511,63,Male,117,144/76,99.2,86,none,HIGH
+Patient_512,81,Female,103,138/80,100.7,98,none,MEDIUM
+Patient_513,79,Female,87,119/89,97.0,95,chest pain,LOW
+Patient_514,77,Female,75,140/97,96.2,98,chest pain,LOW
+Patient_515,96,Female,110,160/95,101.7,88,none,HIGH
+Patient_516,63,Male,67,153/73,103.0,100,chest pain,HIGH
+Patient_517,73,Male,97,145/86,99.3,97,chest pain,MEDIUM
+Patient_518,73,Male,99,126/71,99.6,95,fever,MEDIUM
+Patient_519,73,Male,118,150/78,98.1,100,none,HIGH
+Patient_520,63,Female,114,139/78,100.5,89,none,HIGH
+Patient_521,70,Female,51,146/72,99.2,93,none,MEDIUM
+Patient_522,93,Female,87,152/96,102.4,91,fever,HIGH
+Patient_523,64,Male,79,112/89,100.9,88,chest pain,HIGH
+Patient_524,64,Female,117,150/81,99.5,87,fatigue,HIGH
+Patient_525,95,Female,122,129/78,96.8,94,fatigue,HIGH
+Patient_526,83,Male,96,114/90,98.4,98,dizziness,MEDIUM
+Patient_527,68,Male,91,156/77,98.8,98,none,LOW
+Patient_528,89,Male,121,130/76,102.6,96,fatigue,HIGH
+Patient_529,93,Male,121,123/96,102.5,87,fever,HIGH
+Patient_530,77,Male,60,136/89,99.2,90,fatigue,HIGH
+Patient_531,67,Female,66,123/76,98.5,94,chest pain,LOW
+Patient_532,65,Female,82,128/93,102.6,89,none,HIGH
+Patient_533,84,Male,122,156/79,100.4,89,chest pain,HIGH
+Patient_534,86,Female,127,139/90,100.0,97,none,HIGH
+Patient_535,94,Female,53,150/80,96.0,97,fatigue,LOW
+Patient_536,72,Male,83,118/100,97.1,94,fatigue,LOW
+Patient_537,71,Male,62,139/90,98.8,95,dizziness,LOW
+Patient_538,78,Female,113,147/81,100.8,99,fever,HIGH
+Patient_539,77,Male,94,111/81,97.5,100,fever,LOW
+Patient_540,70,Female,50,133/86,97.4,96,chest pain,LOW
+Patient_541,83,Female,70,127/83,97.5,96,none,LOW
+Patient_542,65,Female,129,114/90,98.6,90,dizziness,HIGH
+Patient_543,93,Female,72,139/89,100.3,96,none,MEDIUM
+Patient_544,78,Female,118,132/99,98.0,91,cough,HIGH
+Patient_545,70,Male,95,132/73,96.9,86,cough,HIGH
+Patient_546,65,Female,63,147/83,98.1,97,dizziness,LOW
+Patient_547,62,Female,71,133/95,98.3,91,fatigue,HIGH
+Patient_548,100,Female,83,117/72,103.4,89,chest pain,HIGH
+Patient_549,81,Male,105,145/91,97.2,88,chest pain,HIGH
+Patient_550,99,Male,79,131/89,103.5,92,none,HIGH
+Patient_551,97,Male,99,125/83,101.0,88,cough,HIGH
+Patient_552,91,Female,83,149/83,96.4,88,fever,HIGH
+Patient_553,79,Male,108,119/93,99.7,96,fatigue,MEDIUM
+Patient_554,73,Male,61,133/78,97.3,86,chest pain,HIGH
+Patient_555,92,Male,103,139/74,101.6,94,chest pain,HIGH
+Patient_556,76,Male,97,114/91,103.4,100,chest pain,HIGH
+Patient_557,79,Male,119,133/89,97.9,88,none,HIGH
+Patient_558,63,Female,97,132/94,99.7,91,dizziness,HIGH
+Patient_559,78,Female,113,154/94,96.1,95,cough,HIGH
+Patient_560,85,Female,52,138/90,102.6,96,none,HIGH
+Patient_561,94,Female,70,114/94,98.0,85,fatigue,HIGH
+Patient_562,71,Female,99,111/71,103.3,85,cough,HIGH
+Patient_563,81,Male,105,157/84,102.2,94,cough,HIGH
+Patient_564,95,Female,118,122/77,99.2,98,fever,HIGH
+Patient_565,72,Male,106,119/83,103.2,85,none,HIGH
+Patient_566,62,Male,73,140/93,97.4,95,fatigue,LOW
+Patient_567,65,Female,113,123/74,97.9,88,fever,HIGH
+Patient_568,89,Female,63,117/94,99.8,95,none,MEDIUM
+Patient_569,88,Female,68,135/98,103.5,99,fever,HIGH
+Patient_570,69,Male,114,149/82,103.7,99,none,HIGH
+Patient_571,77,Female,99,152/92,98.7,90,fatigue,HIGH
+Patient_572,100,Male,99,127/99,96.1,93,fever,MEDIUM
+Patient_573,73,Female,110,138/97,100.9,90,cough,HIGH
+Patient_574,60,Female,70,111/95,101.0,96,fever,MEDIUM
+Patient_575,68,Male,90,148/93,102.7,89,none,HIGH
+Patient_576,64,Female,84,110/85,97.9,93,none,LOW
+Patient_577,90,Female,79,132/98,101.1,98,dizziness,HIGH
+Patient_578,97,Male,79,111/71,102.1,93,fatigue,HIGH
+Patient_579,78,Male,103,120/100,101.6,98,fatigue,HIGH
+Patient_580,90,Male,50,113/91,96.4,90,none,HIGH
+Patient_581,70,Male,115,142/85,101.6,86,none,HIGH
+Patient_582,95,Male,111,134/90,102.9,87,fever,HIGH
+Patient_583,86,Male,123,140/91,101.4,92,dizziness,HIGH
+Patient_584,89,Male,85,142/74,101.2,95,cough,HIGH
+Patient_585,89,Female,115,147/71,98.0,99,cough,HIGH
+Patient_586,64,Female,100,136/75,97.0,91,fatigue,HIGH
+Patient_587,62,Female,62,133/72,101.9,92,dizziness,HIGH
+Patient_588,76,Female,95,124/70,96.3,98,none,LOW
+Patient_589,82,Female,105,111/96,98.6,93,none,MEDIUM
+Patient_590,95,Male,77,116/86,98.1,90,fatigue,HIGH
+Patient_591,99,Female,105,114/86,103.4,91,fatigue,HIGH
+Patient_592,67,Female,128,128/95,101.4,94,dizziness,HIGH
+Patient_593,96,Female,101,134/73,96.7,98,dizziness,MEDIUM
+Patient_594,68,Male,71,128/88,101.9,85,fatigue,HIGH
+Patient_595,79,Male,124,126/79,98.3,95,fever,HIGH
+Patient_596,69,Male,89,160/89,98.1,94,cough,LOW
+Patient_597,80,Male,87,147/77,96.7,99,fever,LOW
+Patient_598,79,Female,125,145/71,101.4,94,none,HIGH
+Patient_599,89,Male,115,136/87,103.2,87,chest pain,HIGH
+Patient_600,73,Female,64,156/76,99.8,89,chest pain,HIGH
+Patient_601,62,Male,128,152/82,101.3,99,fever,HIGH
+Patient_602,97,Female,58,143/96,97.5,91,fatigue,HIGH
+Patient_603,92,Male,57,126/82,97.1,99,chest pain,LOW
+Patient_604,97,Male,62,150/96,99.4,88,dizziness,HIGH
+Patient_605,72,Male,93,114/83,97.3,100,dizziness,LOW
+Patient_606,77,Male,58,158/76,100.1,85,fever,HIGH
+Patient_607,89,Male,102,158/94,100.1,89,fatigue,HIGH
+Patient_608,69,Female,102,120/77,100.9,99,none,MEDIUM
+Patient_609,63,Male,106,149/95,99.0,87,cough,HIGH
+Patient_610,65,Male,108,125/85,99.5,90,chest pain,HIGH
+Patient_611,73,Male,120,154/82,98.9,91,fatigue,HIGH
+Patient_612,69,Female,68,125/79,103.2,91,chest pain,HIGH
+Patient_613,93,Male,69,152/88,97.0,99,dizziness,LOW
+Patient_614,80,Female,116,144/89,97.8,89,none,HIGH
+Patient_615,85,Male,122,157/91,103.1,99,dizziness,HIGH
+Patient_616,71,Female,78,138/81,103.5,99,fatigue,HIGH
+Patient_617,91,Female,66,115/75,102.5,85,none,HIGH
+Patient_618,67,Female,130,147/74,99.9,89,fever,HIGH
+Patient_619,93,Female,92,128/81,99.2,98,fever,MEDIUM
+Patient_620,93,Female,69,113/72,99.2,88,fever,HIGH
+Patient_621,83,Female,60,126/94,97.8,92,none,LOW
+Patient_622,99,Male,128,130/77,96.2,86,cough,HIGH
+Patient_623,68,Male,107,111/97,96.3,97,fever,MEDIUM
+Patient_624,68,Female,120,119/82,101.3,93,fatigue,HIGH
+Patient_625,82,Female,110,159/80,102.2,89,cough,HIGH
+Patient_626,88,Female,91,153/73,102.6,86,chest pain,HIGH
+Patient_627,84,Male,110,110/71,100.7,97,fatigue,MEDIUM
+Patient_628,99,Female,120,159/72,101.7,86,none,HIGH
+Patient_629,66,Female,95,139/71,102.8,86,none,HIGH
+Patient_630,94,Male,106,111/95,100.3,100,fever,MEDIUM
+Patient_631,84,Female,128,143/80,96.8,93,chest pain,HIGH
+Patient_632,98,Male,75,160/72,98.2,100,none,LOW
+Patient_633,87,Female,108,112/100,103.1,98,fever,HIGH
+Patient_634,67,Male,108,131/81,101.3,91,fever,HIGH
+Patient_635,100,Female,62,118/97,101.5,92,fatigue,HIGH
+Patient_636,94,Female,97,116/76,102.2,96,fever,HIGH
+Patient_637,70,Female,95,146/72,102.6,99,chest pain,HIGH
+Patient_638,80,Male,84,157/100,98.8,88,fever,HIGH
+Patient_639,100,Male,62,153/88,97.2,90,dizziness,HIGH
+Patient_640,79,Female,71,110/91,96.5,100,chest pain,LOW
+Patient_641,73,Male,65,145/94,97.7,97,dizziness,LOW
+Patient_642,63,Male,119,154/82,96.1,90,cough,HIGH
+Patient_643,94,Male,70,155/70,103.9,87,none,HIGH
+Patient_644,65,Male,96,114/90,102.0,86,fatigue,HIGH
+Patient_645,89,Female,52,147/75,103.3,99,dizziness,HIGH
+Patient_646,64,Female,120,141/86,103.0,93,none,HIGH
+Patient_647,67,Male,90,131/83,103.1,99,none,HIGH
+Patient_648,82,Female,80,155/84,102.5,94,chest pain,HIGH
+Patient_649,99,Male,111,157/84,103.9,100,cough,HIGH
+Patient_650,91,Male,100,144/85,102.9,86,none,HIGH
+Patient_651,94,Male,97,160/77,99.1,98,chest pain,MEDIUM
+Patient_652,83,Male,100,147/74,99.3,87,none,HIGH
+Patient_653,63,Male,97,122/86,100.4,86,cough,HIGH
+Patient_654,71,Female,53,156/86,102.9,89,none,HIGH
+Patient_655,96,Male,57,153/91,97.0,95,cough,LOW
+Patient_656,75,Male,93,114/75,100.2,87,fatigue,HIGH
+Patient_657,64,Male,130,155/92,99.9,91,fever,HIGH
+Patient_658,67,Male,110,116/98,102.6,99,fever,HIGH
+Patient_659,67,Male,104,138/79,100.7,85,none,HIGH
+Patient_660,87,Male,92,148/91,96.0,95,chest pain,LOW
+Patient_661,67,Male,125,117/74,103.0,87,fever,HIGH
+Patient_662,79,Female,119,121/85,97.8,97,cough,HIGH
+Patient_663,85,Male,113,151/84,97.5,93,dizziness,HIGH
+Patient_664,99,Male,71,113/78,96.8,94,fever,LOW
+Patient_665,78,Male,129,139/72,96.1,100,fever,HIGH
+Patient_666,82,Female,113,160/85,99.8,90,dizziness,HIGH
+Patient_667,93,Female,78,120/86,100.7,91,fever,HIGH
+Patient_668,98,Female,107,136/92,101.3,86,fever,HIGH
+Patient_669,61,Female,96,122/82,100.9,90,fatigue,HIGH
+Patient_670,64,Male,53,137/76,99.3,90,none,HIGH
+Patient_671,65,Female,101,156/92,102.6,99,chest pain,HIGH
+Patient_672,63,Female,107,160/97,102.5,96,none,HIGH
+Patient_673,70,Male,65,111/88,101.2,86,dizziness,HIGH
+Patient_674,82,Female,62,134/92,97.8,90,cough,HIGH
+Patient_675,68,Female,103,150/99,103.7,94,cough,HIGH
+Patient_676,71,Male,125,159/77,100.3,97,cough,HIGH
+Patient_677,97,Male,126,150/98,98.1,87,dizziness,HIGH
+Patient_678,82,Female,71,143/86,102.8,100,cough,HIGH
+Patient_679,92,Male,72,143/92,100.1,95,dizziness,MEDIUM
+Patient_680,69,Female,51,153/73,102.8,98,fatigue,HIGH
+Patient_681,61,Male,50,114/84,102.2,95,cough,HIGH
+Patient_682,94,Female,118,133/90,101.3,96,fatigue,HIGH
+Patient_683,98,Female,83,122/77,99.3,100,chest pain,MEDIUM
+Patient_684,67,Male,115,117/97,102.6,93,cough,HIGH
+Patient_685,98,Male,89,155/98,101.3,91,none,HIGH
+Patient_686,75,Male,110,114/75,97.4,85,chest pain,HIGH
+Patient_687,95,Female,86,122/98,99.6,99,fatigue,MEDIUM
+Patient_688,95,Female,102,123/91,101.9,89,fever,HIGH
+Patient_689,97,Female,124,146/91,98.5,90,none,HIGH
+Patient_690,83,Male,70,136/76,97.1,94,cough,LOW
+Patient_691,75,Female,115,136/75,99.5,96,none,HIGH
+Patient_692,90,Male,58,160/73,96.8,90,dizziness,HIGH
+Patient_693,87,Female,117,141/91,96.5,85,fatigue,HIGH
+Patient_694,96,Male,129,131/96,100.1,91,chest pain,HIGH
+Patient_695,90,Female,88,111/82,98.5,93,fever,LOW
+Patient_696,64,Female,104,150/91,100.0,88,fever,HIGH
+Patient_697,99,Female,123,110/77,96.3,97,cough,HIGH
+Patient_698,94,Male,113,114/96,99.1,85,chest pain,HIGH
+Patient_699,67,Female,91,145/74,100.4,92,fever,MEDIUM
+Patient_700,89,Male,91,126/80,100.5,98,fatigue,MEDIUM
+Patient_701,66,Male,97,129/92,103.2,97,chest pain,HIGH
+Patient_702,65,Female,106,145/80,100.6,98,dizziness,MEDIUM
+Patient_703,84,Female,50,137/80,100.8,88,dizziness,HIGH
+Patient_704,84,Male,56,138/96,99.1,88,dizziness,HIGH
+Patient_705,89,Male,105,150/83,103.7,99,fatigue,HIGH
+Patient_706,79,Female,77,134/78,102.5,93,none,HIGH
+Patient_707,66,Male,106,114/96,99.9,97,cough,MEDIUM
+Patient_708,96,Female,93,141/81,96.9,95,fatigue,LOW
+Patient_709,64,Male,103,152/93,96.5,98,fever,MEDIUM
+Patient_710,95,Male,90,115/91,104.0,85,fever,HIGH
+Patient_711,92,Male,113,160/81,102.1,94,fatigue,HIGH
+Patient_712,76,Female,126,112/85,99.3,87,chest pain,HIGH
+Patient_713,76,Female,95,116/82,103.2,94,none,HIGH
+Patient_714,93,Male,91,116/83,97.4,98,fatigue,LOW
+Patient_715,85,Female,80,129/79,96.3,93,fever,LOW
+Patient_716,69,Male,50,150/96,96.4,95,fever,LOW
+Patient_717,94,Female,66,157/100,97.9,95,fever,LOW
+Patient_718,89,Female,98,130/74,101.6,99,none,HIGH
+Patient_719,78,Female,65,124/70,103.0,87,chest pain,HIGH
+Patient_720,87,Female,63,116/90,100.7,100,fatigue,MEDIUM
+Patient_721,81,Female,65,127/87,102.5,90,cough,HIGH
+Patient_722,96,Female,122,129/92,97.8,94,none,HIGH
+Patient_723,69,Male,82,116/98,98.5,99,dizziness,LOW
+Patient_724,86,Female,95,156/100,101.8,96,dizziness,HIGH
+Patient_725,97,Female,99,112/88,102.6,98,none,HIGH
+Patient_726,64,Female,61,156/93,100.9,86,dizziness,HIGH
+Patient_727,82,Male,87,140/95,101.8,89,chest pain,HIGH
+Patient_728,87,Female,98,117/82,102.8,96,none,HIGH
+Patient_729,92,Female,78,151/72,102.1,97,fatigue,HIGH
+Patient_730,88,Male,96,160/84,100.8,97,none,MEDIUM
+Patient_731,86,Male,99,148/90,97.2,96,none,MEDIUM
+Patient_732,91,Female,125,116/98,103.9,89,fatigue,HIGH
+Patient_733,81,Female,111,157/76,101.1,92,none,HIGH
+Patient_734,68,Female,87,123/76,102.1,86,fever,HIGH
+Patient_735,61,Male,119,150/76,102.8,93,chest pain,HIGH
+Patient_736,64,Female,76,125/88,98.6,98,chest pain,LOW
+Patient_737,72,Female,93,134/98,101.0,91,none,HIGH
+Patient_738,87,Male,53,124/99,103.7,89,none,HIGH
+Patient_739,72,Female,60,154/70,101.0,99,fever,MEDIUM
+Patient_740,93,Female,88,143/73,103.7,88,fatigue,HIGH
+Patient_741,85,Male,115,137/91,99.8,96,fatigue,HIGH
+Patient_742,69,Male,75,113/72,103.5,87,cough,HIGH
+Patient_743,81,Male,121,151/70,98.8,94,chest pain,HIGH
+Patient_744,61,Female,79,114/84,96.4,94,none,LOW
+Patient_745,99,Female,82,132/85,97.4,93,cough,LOW
+Patient_746,90,Female,124,128/80,101.2,92,fever,HIGH
+Patient_747,87,Male,56,137/74,97.7,97,fever,LOW
+Patient_748,94,Male,60,111/88,98.1,86,none,HIGH
+Patient_749,68,Male,81,141/95,98.1,96,cough,LOW
+Patient_750,72,Female,122,118/91,100.8,90,dizziness,HIGH
+Patient_751,60,Male,66,120/70,96.9,86,chest pain,HIGH
+Patient_752,74,Male,77,158/96,97.1,89,fever,HIGH
+Patient_753,65,Male,83,129/88,99.9,99,cough,MEDIUM
+Patient_754,87,Female,70,138/89,102.9,90,fatigue,HIGH
+Patient_755,68,Female,77,159/81,97.6,91,fever,HIGH
+Patient_756,82,Male,60,160/89,100.7,85,cough,HIGH
+Patient_757,63,Male,102,152/80,98.7,97,fatigue,MEDIUM
+Patient_758,97,Female,85,146/86,101.1,93,fatigue,HIGH
+Patient_759,73,Female,119,137/83,99.8,88,cough,HIGH
+Patient_760,67,Female,97,130/96,96.2,94,cough,MEDIUM
+Patient_761,100,Male,74,155/85,101.4,88,chest pain,HIGH
+Patient_762,85,Male,60,110/100,102.9,100,cough,HIGH
+Patient_763,75,Female,116,122/91,98.2,87,chest pain,HIGH
+Patient_764,71,Male,55,153/72,97.5,99,dizziness,LOW
+Patient_765,85,Male,96,160/82,102.4,98,cough,HIGH
+Patient_766,95,Female,127,114/82,99.1,86,dizziness,HIGH
+Patient_767,62,Female,83,113/93,98.5,97,dizziness,LOW
+Patient_768,63,Male,54,114/91,97.6,89,chest pain,HIGH
+Patient_769,87,Female,128,156/71,101.4,100,dizziness,HIGH
+Patient_770,98,Male,64,116/80,96.2,93,cough,LOW
+Patient_771,84,Male,54,159/79,96.5,99,fatigue,LOW
+Patient_772,85,Female,103,158/73,104.0,99,none,HIGH
+Patient_773,71,Male,105,141/98,102.9,94,none,HIGH
+Patient_774,94,Female,89,158/84,103.4,88,fatigue,HIGH
+Patient_775,62,Female,115,132/80,101.2,100,fever,HIGH
+Patient_776,96,Female,108,135/91,99.7,93,dizziness,MEDIUM
+Patient_777,82,Female,83,123/77,100.8,91,chest pain,HIGH
+Patient_778,91,Male,64,129/72,96.3,93,cough,LOW
+Patient_779,100,Female,90,118/79,99.9,99,fever,MEDIUM
+Patient_780,67,Female,87,159/70,98.5,100,fever,LOW
+Patient_781,92,Male,92,142/85,102.9,94,chest pain,HIGH
+Patient_782,95,Male,107,143/73,102.0,96,fever,HIGH
+Patient_783,77,Male,92,145/76,102.9,96,none,HIGH
+Patient_784,67,Male,123,122/80,103.7,98,cough,HIGH
+Patient_785,63,Male,53,150/78,99.8,85,fever,HIGH
+Patient_786,93,Female,67,158/74,99.4,90,none,HIGH
+Patient_787,100,Male,103,120/92,101.4,100,none,HIGH
+Patient_788,74,Female,76,121/98,103.1,91,cough,HIGH
+Patient_789,69,Female,109,156/79,100.4,85,cough,HIGH
+Patient_790,96,Male,86,126/96,99.8,95,chest pain,MEDIUM
+Patient_791,64,Female,81,113/99,100.6,90,fatigue,HIGH
+Patient_792,80,Male,124,127/99,102.1,87,fatigue,HIGH
+Patient_793,82,Male,119,157/87,101.4,85,dizziness,HIGH
+Patient_794,70,Male,114,156/88,96.7,86,dizziness,HIGH
+Patient_795,95,Female,113,110/89,100.8,90,cough,HIGH
+Patient_796,63,Male,101,125/95,97.1,90,chest pain,HIGH
+Patient_797,62,Female,59,115/70,101.9,90,none,HIGH
+Patient_798,85,Male,127,111/86,103.1,96,dizziness,HIGH
+Patient_799,99,Male,119,123/89,101.0,98,fatigue,HIGH
+Patient_800,66,Male,115,113/94,99.8,92,dizziness,HIGH
+Patient_801,70,Female,111,122/77,96.0,100,none,HIGH
+Patient_802,82,Male,127,127/90,100.1,99,fatigue,HIGH
+Patient_803,100,Female,72,151/81,97.7,99,cough,LOW
+Patient_804,62,Female,109,159/80,103.2,88,dizziness,HIGH
+Patient_805,67,Female,109,157/99,100.3,99,fever,MEDIUM
+Patient_806,74,Female,115,114/76,101.1,87,dizziness,HIGH
+Patient_807,79,Female,90,144/97,100.7,93,none,MEDIUM
+Patient_808,89,Female,98,124/79,100.5,97,cough,MEDIUM
+Patient_809,94,Male,93,116/73,101.6,92,fever,HIGH
+Patient_810,93,Male,107,111/73,96.9,90,chest pain,HIGH
+Patient_811,85,Female,82,128/95,96.2,94,none,LOW
+Patient_812,91,Male,69,126/97,96.3,87,chest pain,HIGH
+Patient_813,97,Female,71,124/93,100.7,95,chest pain,MEDIUM
+Patient_814,72,Male,104,124/86,100.6,96,fever,MEDIUM
+Patient_815,86,Male,57,153/90,96.5,97,fatigue,LOW
+Patient_816,93,Male,59,139/83,96.9,95,cough,LOW
+Patient_817,74,Male,59,134/81,96.1,86,dizziness,HIGH
+Patient_818,79,Female,118,115/86,97.0,86,fatigue,HIGH
+Patient_819,90,Male,105,126/87,103.3,99,dizziness,HIGH
+Patient_820,88,Male,99,140/100,102.6,90,cough,HIGH
+Patient_821,89,Female,69,111/92,103.2,90,chest pain,HIGH
+Patient_822,69,Male,52,116/99,97.9,96,fever,LOW
+Patient_823,96,Female,92,156/87,99.7,95,cough,MEDIUM
+Patient_824,86,Female,111,125/92,97.7,85,cough,HIGH
+Patient_825,99,Female,89,153/90,103.1,97,dizziness,HIGH
+Patient_826,85,Female,127,152/89,100.6,90,cough,HIGH
+Patient_827,83,Female,64,156/84,96.1,94,fever,LOW
+Patient_828,100,Female,65,145/79,97.4,98,fever,LOW
+Patient_829,99,Male,82,145/75,103.3,86,chest pain,HIGH
+Patient_830,86,Male,53,142/94,101.2,86,fever,HIGH
+Patient_831,89,Female,94,144/86,100.8,89,fever,HIGH
+Patient_832,86,Female,78,151/86,99.9,93,fever,MEDIUM
+Patient_833,88,Female,72,156/76,101.0,88,chest pain,HIGH
+Patient_834,86,Female,68,115/94,102.0,86,cough,HIGH
+Patient_835,64,Male,109,123/91,97.0,90,fatigue,HIGH
+Patient_836,73,Male,75,131/79,98.0,90,dizziness,HIGH
+Patient_837,67,Female,93,154/79,101.8,100,none,HIGH
+Patient_838,82,Male,65,119/93,99.0,96,dizziness,LOW
+Patient_839,83,Female,115,156/99,97.1,85,fever,HIGH
+Patient_840,76,Female,66,118/74,99.3,95,fatigue,MEDIUM
+Patient_841,85,Female,119,159/95,102.6,100,chest pain,HIGH
+Patient_842,62,Female,77,110/80,103.7,85,dizziness,HIGH
+Patient_843,74,Female,78,131/95,96.2,92,fever,LOW
+Patient_844,61,Male,60,112/85,96.8,90,fatigue,HIGH
+Patient_845,85,Male,59,112/79,100.8,85,cough,HIGH
+Patient_846,71,Male,82,122/74,100.0,93,fatigue,MEDIUM
+Patient_847,85,Female,98,119/91,99.3,88,fever,HIGH
+Patient_848,67,Male,114,136/83,102.5,85,dizziness,HIGH
+Patient_849,79,Female,54,133/88,103.0,97,dizziness,HIGH
+Patient_850,95,Male,105,117/78,96.7,96,fever,MEDIUM
+Patient_851,70,Male,62,132/93,99.8,88,none,HIGH
+Patient_852,88,Female,76,140/74,103.7,99,fatigue,HIGH
+Patient_853,81,Female,82,122/78,103.0,88,none,HIGH
+Patient_854,85,Male,74,137/96,100.3,86,cough,HIGH
+Patient_855,94,Female,92,146/70,96.8,97,cough,LOW
+Patient_856,99,Male,70,141/71,103.2,93,chest pain,HIGH
+Patient_857,73,Female,95,129/76,98.0,93,chest pain,LOW
+Patient_858,87,Male,119,126/99,99.7,89,chest pain,HIGH
+Patient_859,91,Female,53,126/84,97.0,89,fever,HIGH
+Patient_860,96,Female,60,133/82,100.1,97,chest pain,MEDIUM
+Patient_861,65,Male,101,143/81,102.0,88,cough,HIGH
+Patient_862,69,Male,102,160/86,103.1,96,chest pain,HIGH
+Patient_863,66,Female,94,110/78,98.2,90,dizziness,HIGH
+Patient_864,82,Male,109,138/85,96.9,89,chest pain,HIGH
+Patient_865,65,Male,117,145/72,101.6,92,cough,HIGH
+Patient_866,79,Female,78,159/88,102.3,96,dizziness,HIGH
+Patient_867,85,Female,50,121/81,103.4,96,fatigue,HIGH
+Patient_868,67,Female,74,116/91,101.0,100,dizziness,MEDIUM
+Patient_869,94,Male,128,125/75,101.1,91,cough,HIGH
+Patient_870,61,Male,88,145/84,103.8,92,chest pain,HIGH
+Patient_871,85,Female,120,124/94,103.9,98,fever,HIGH
+Patient_872,71,Female,61,118/92,100.7,97,fatigue,MEDIUM
+Patient_873,75,Female,84,129/83,100.1,89,cough,HIGH
+Patient_874,89,Male,60,155/99,99.2,92,chest pain,MEDIUM
+Patient_875,61,Female,122,113/80,99.8,96,none,HIGH
+Patient_876,99,Male,80,160/93,102.8,91,fatigue,HIGH
+Patient_877,84,Female,88,141/82,99.2,90,none,HIGH
+Patient_878,87,Male,125,135/94,100.1,94,dizziness,HIGH
+Patient_879,71,Male,130,153/83,99.2,93,cough,HIGH
+Patient_880,90,Male,77,152/72,103.4,86,fatigue,HIGH
+Patient_881,68,Male,114,147/93,101.6,89,none,HIGH
+Patient_882,75,Female,95,143/99,100.0,88,fatigue,HIGH
+Patient_883,98,Male,124,113/86,99.6,89,chest pain,HIGH
+Patient_884,61,Male,113,124/88,103.3,89,dizziness,HIGH
+Patient_885,90,Female,56,128/82,101.7,92,none,HIGH
+Patient_886,83,Male,65,116/83,103.4,96,cough,HIGH
+Patient_887,91,Male,66,157/89,102.5,85,chest pain,HIGH
+Patient_888,77,Male,89,120/73,97.8,91,cough,HIGH
+Patient_889,95,Female,56,136/80,98.7,91,fever,HIGH
+Patient_890,97,Male,130,114/92,99.9,85,cough,HIGH
+Patient_891,86,Female,115,128/91,103.6,90,chest pain,HIGH
+Patient_892,83,Male,75,127/100,101.5,88,none,HIGH
+Patient_893,93,Female,97,145/83,98.5,92,none,MEDIUM
+Patient_894,85,Male,52,142/72,99.5,98,none,MEDIUM
+Patient_895,79,Male,76,156/89,97.8,97,fatigue,LOW
+Patient_896,85,Male,107,114/73,102.1,87,fever,HIGH
+Patient_897,70,Male,50,158/89,103.6,94,dizziness,HIGH
+Patient_898,81,Female,76,138/98,96.6,94,chest pain,LOW
+Patient_899,92,Female,87,111/80,103.2,86,fatigue,HIGH
+Patient_900,79,Female,129,152/88,96.1,99,cough,HIGH
+Patient_901,83,Male,123,128/91,99.6,98,fever,HIGH
+Patient_902,73,Male,113,152/79,103.5,98,none,HIGH
+Patient_903,79,Male,128,123/97,102.6,98,cough,HIGH
+Patient_904,67,Male,54,135/73,103.4,99,fatigue,HIGH
+Patient_905,93,Female,94,140/79,96.2,96,cough,LOW
+Patient_906,66,Male,118,139/85,96.2,94,fever,HIGH
+Patient_907,84,Female,65,125/85,103.6,91,dizziness,HIGH
+Patient_908,73,Female,67,110/76,96.6,99,cough,LOW
+Patient_909,87,Female,118,156/78,98.0,92,none,HIGH
+Patient_910,78,Male,121,112/70,102.0,97,none,HIGH
+Patient_911,65,Male,64,128/88,103.4,92,cough,HIGH
+Patient_912,63,Male,78,116/87,100.3,96,fever,MEDIUM
+Patient_913,73,Male,87,124/87,102.9,90,cough,HIGH
+Patient_914,89,Female,108,152/99,96.2,94,chest pain,MEDIUM
+Patient_915,96,Female,95,144/79,98.3,88,chest pain,HIGH
+Patient_916,88,Male,103,134/75,102.3,96,fever,HIGH
+Patient_917,77,Male,101,112/73,100.8,93,fever,MEDIUM
+Patient_918,75,Female,83,116/90,99.1,85,chest pain,HIGH
+Patient_919,83,Male,72,160/78,103.7,87,chest pain,HIGH
+Patient_920,88,Male,104,119/92,102.0,99,chest pain,HIGH
+Patient_921,87,Male,95,112/87,99.8,91,fatigue,HIGH
+Patient_922,94,Male,127,121/98,102.5,90,fever,HIGH
+Patient_923,93,Female,98,121/77,99.1,89,fever,HIGH
+Patient_924,66,Male,129,127/74,98.2,92,chest pain,HIGH
+Patient_925,61,Female,58,139/75,103.6,99,chest pain,HIGH
+Patient_926,66,Male,93,139/80,98.0,93,fatigue,LOW
+Patient_927,75,Male,73,128/70,97.9,88,dizziness,HIGH
+Patient_928,79,Male,118,137/100,96.8,89,fatigue,HIGH
+Patient_929,77,Female,57,152/95,102.0,86,none,HIGH
+Patient_930,80,Female,87,155/74,102.0,89,dizziness,HIGH
+Patient_931,60,Male,128,149/71,100.8,96,cough,HIGH
+Patient_932,75,Female,108,115/95,96.5,85,none,HIGH
+Patient_933,75,Male,54,128/70,96.9,98,none,LOW
+Patient_934,92,Male,67,110/88,98.5,86,cough,HIGH
+Patient_935,83,Female,55,123/92,100.9,90,fever,HIGH
+Patient_936,86,Female,101,154/94,103.9,97,dizziness,HIGH
+Patient_937,71,Female,119,119/78,103.8,97,fever,HIGH
+Patient_938,70,Female,92,148/70,99.7,88,chest pain,HIGH
+Patient_939,73,Female,71,157/78,99.5,100,dizziness,MEDIUM
+Patient_940,79,Female,86,146/72,102.7,97,none,HIGH
+Patient_941,97,Female,89,111/91,100.0,97,chest pain,MEDIUM
+Patient_942,74,Male,118,110/85,98.2,86,cough,HIGH
+Patient_943,95,Male,64,132/80,97.3,94,cough,LOW
+Patient_944,98,Male,51,152/71,102.5,91,chest pain,HIGH
+Patient_945,75,Male,58,153/88,102.7,91,fatigue,HIGH
+Patient_946,99,Female,95,158/93,96.6,95,chest pain,LOW
+Patient_947,82,Female,90,123/79,101.0,92,chest pain,MEDIUM
+Patient_948,63,Male,72,156/74,97.6,86,dizziness,HIGH
+Patient_949,92,Male,104,123/97,100.6,91,chest pain,HIGH
+Patient_950,74,Male,63,152/81,103.0,85,fatigue,HIGH
+Patient_951,71,Male,128,156/94,97.6,94,dizziness,HIGH
+Patient_952,99,Male,68,160/87,97.6,95,cough,LOW
+Patient_953,62,Female,120,118/81,99.6,89,dizziness,HIGH
+Patient_954,90,Male,57,138/73,100.4,95,dizziness,MEDIUM
+Patient_955,91,Male,130,156/98,99.7,97,cough,HIGH
+Patient_956,70,Male,126,159/96,96.7,86,fever,HIGH
+Patient_957,87,Female,123,149/95,96.6,91,dizziness,HIGH
+Patient_958,82,Female,110,131/76,100.7,99,fever,MEDIUM
+Patient_959,67,Male,113,122/79,103.2,92,dizziness,HIGH
+Patient_960,97,Female,118,134/72,99.1,88,chest pain,HIGH
+Patient_961,67,Male,67,123/80,98.3,100,cough,LOW
+Patient_962,63,Female,105,129/83,101.7,98,fatigue,HIGH
+Patient_963,79,Female,89,111/87,102.3,90,fatigue,HIGH
+Patient_964,88,Female,122,155/95,97.7,89,chest pain,HIGH
+Patient_965,92,Male,122,142/74,97.1,92,dizziness,HIGH
+Patient_966,92,Female,72,158/82,101.9,99,fatigue,HIGH
+Patient_967,61,Male,50,143/98,98.2,99,fever,LOW
+Patient_968,70,Male,100,146/71,100.9,86,fatigue,HIGH
+Patient_969,94,Male,117,114/95,101.6,94,fatigue,HIGH
+Patient_970,61,Male,102,155/96,102.3,87,fever,HIGH
+Patient_971,88,Male,74,150/100,98.2,85,chest pain,HIGH
+Patient_972,69,Female,101,154/88,102.4,86,fever,HIGH
+Patient_973,73,Female,125,155/98,101.8,90,dizziness,HIGH
+Patient_974,74,Male,106,141/96,100.7,95,fatigue,MEDIUM
+Patient_975,88,Female,115,150/98,98.3,96,none,HIGH
+Patient_976,61,Male,67,142/86,101.7,85,chest pain,HIGH
+Patient_977,76,Female,105,127/72,97.2,89,none,HIGH
+Patient_978,79,Male,56,137/72,98.1,89,fever,HIGH
+Patient_979,77,Male,70,159/79,101.4,97,fever,HIGH
+Patient_980,60,Male,72,147/91,103.8,86,fatigue,HIGH
+Patient_981,90,Male,122,119/83,99.7,93,fever,HIGH
+Patient_982,87,Male,93,112/99,103.8,93,chest pain,HIGH
+Patient_983,66,Female,128,133/96,101.8,100,cough,HIGH
+Patient_984,61,Male,90,158/84,96.3,85,fever,HIGH
+Patient_985,70,Male,122,116/94,98.3,88,dizziness,HIGH
+Patient_986,86,Female,59,114/84,97.1,89,dizziness,HIGH
+Patient_987,72,Female,101,123/97,98.3,96,chest pain,MEDIUM
+Patient_988,88,Male,81,125/81,103.9,89,none,HIGH
+Patient_989,69,Female,92,157/97,98.0,87,chest pain,HIGH
+Patient_990,70,Male,73,131/91,103.7,87,fever,HIGH
+Patient_991,81,Female,52,156/82,100.6,88,chest pain,HIGH
+Patient_992,73,Male,109,110/85,97.1,92,chest pain,MEDIUM
+Patient_993,97,Female,75,149/92,98.2,94,fatigue,LOW
+Patient_994,97,Male,117,154/97,103.4,86,chest pain,HIGH
+Patient_995,62,Male,96,127/89,100.1,86,fatigue,HIGH
+Patient_996,74,Female,122,113/76,100.7,92,fatigue,HIGH
+Patient_997,82,Male,71,113/92,101.4,97,fever,HIGH
+Patient_998,62,Male,91,151/73,102.2,98,fever,HIGH
+Patient_999,63,Female,95,127/95,101.5,93,chest pain,HIGH
+Patient_1000,84,Male,93,120/95,100.6,98,fatigue,MEDIUM
+Patient_1001,86,Male,102,138/86,96.2,87,chest pain,HIGH
+Patient_1002,89,Male,122,120/95,99.3,97,chest pain,HIGH
+Patient_1003,72,Male,68,127/78,96.7,85,chest pain,HIGH
+Patient_1004,84,Male,116,152/100,100.4,91,none,HIGH
+Patient_1005,72,Male,91,144/79,98.6,98,fatigue,LOW
+Patient_1006,63,Male,95,114/74,102.1,93,chest pain,HIGH
+Patient_1007,62,Male,76,145/77,99.1,86,fatigue,HIGH
+Patient_1008,80,Female,117,156/80,97.4,87,dizziness,HIGH
+Patient_1009,60,Female,84,133/84,96.5,87,fatigue,HIGH
+Patient_1010,68,Female,98,160/77,100.5,96,chest pain,MEDIUM
+Patient_1011,89,Male,63,125/99,104.0,95,chest pain,HIGH
+Patient_1012,79,Male,108,153/77,100.7,90,cough,HIGH
+Patient_1013,96,Female,54,151/74,96.4,89,fatigue,HIGH
+Patient_1014,60,Male,64,112/72,96.9,100,fever,LOW
+Patient_1015,65,Female,53,125/85,102.2,90,chest pain,HIGH
+Patient_1016,93,Male,59,144/81,97.7,100,cough,LOW
+Patient_1017,74,Male,106,151/84,99.3,85,none,HIGH
+Patient_1018,87,Male,72,138/70,99.4,89,dizziness,HIGH
+Patient_1019,73,Male,78,112/90,101.8,89,dizziness,HIGH
+Patient_1020,72,Male,115,152/83,103.7,93,dizziness,HIGH
+Patient_1021,75,Female,90,124/94,98.1,89,cough,HIGH
+Patient_1022,100,Female,72,111/75,98.5,88,cough,HIGH
+Patient_1023,95,Male,92,147/80,96.8,97,fever,LOW
+Patient_1024,90,Female,110,129/89,97.7,88,none,HIGH
+Patient_1025,62,Male,84,126/87,99.1,92,cough,MEDIUM
+Patient_1026,88,Male,112,130/100,97.4,95,dizziness,HIGH
+Patient_1027,70,Male,82,160/84,103.3,98,fatigue,HIGH
+Patient_1028,96,Female,75,138/92,97.6,99,dizziness,LOW
+Patient_1029,70,Female,80,154/93,103.5,100,cough,HIGH
+Patient_1030,85,Female,99,148/97,96.7,99,none,MEDIUM
+Patient_1031,76,Male,111,160/90,98.6,97,chest pain,HIGH
+Patient_1032,61,Male,107,139/84,103.0,89,dizziness,HIGH
+Patient_1033,93,Female,91,135/93,102.9,86,fatigue,HIGH
+Patient_1034,90,Female,99,141/79,103.0,87,none,HIGH
+Patient_1035,70,Female,60,149/75,101.6,93,fever,HIGH
+Patient_1036,80,Male,51,154/77,102.1,85,dizziness,HIGH
+Patient_1037,78,Female,68,150/89,98.8,86,fever,HIGH
+Patient_1038,70,Female,70,125/75,96.9,100,cough,LOW
+Patient_1039,87,Female,98,157/85,102.5,99,chest pain,HIGH
+Patient_1040,75,Male,75,135/70,98.1,92,dizziness,LOW
+Patient_1041,63,Male,68,112/92,99.6,94,cough,MEDIUM
+Patient_1042,97,Male,57,138/74,103.3,91,dizziness,HIGH
+Patient_1043,96,Male,64,117/75,97.8,90,none,HIGH
+Patient_1044,83,Male,65,160/80,99.5,87,chest pain,HIGH
+Patient_1045,97,Female,101,129/95,102.3,95,none,HIGH
+Patient_1046,99,Female,78,142/95,102.0,97,fatigue,HIGH
+Patient_1047,98,Male,122,126/94,102.5,96,cough,HIGH
+Patient_1048,85,Female,57,136/79,99.4,96,fever,MEDIUM
+Patient_1049,70,Female,115,128/77,99.2,92,fever,HIGH
+Patient_1050,84,Female,129,151/71,100.5,91,dizziness,HIGH
+Patient_1051,78,Male,74,159/97,99.7,98,none,MEDIUM
+Patient_1052,61,Male,108,118/89,103.5,99,none,HIGH
+Patient_1053,60,Female,115,150/83,102.7,92,none,HIGH
+Patient_1054,83,Male,55,141/90,98.2,86,cough,HIGH
+Patient_1055,64,Female,69,125/83,97.4,96,fatigue,LOW
+Patient_1056,98,Female,56,129/88,97.0,99,dizziness,LOW
+Patient_1057,85,Female,114,127/71,101.1,94,none,HIGH
+Patient_1058,67,Male,58,117/94,97.5,97,fever,LOW
+Patient_1059,94,Female,104,113/85,99.2,99,fatigue,MEDIUM
+Patient_1060,85,Female,106,126/76,98.3,90,dizziness,HIGH
+Patient_1061,68,Female,62,125/77,103.0,87,cough,HIGH
+Patient_1062,81,Male,63,114/100,103.5,90,cough,HIGH
+Patient_1063,87,Female,80,144/73,99.5,97,dizziness,MEDIUM
+Patient_1064,63,Female,124,125/83,97.3,93,fever,HIGH
+Patient_1065,90,Male,121,129/80,97.7,85,none,HIGH
+Patient_1066,73,Female,96,115/91,102.1,89,dizziness,HIGH
+Patient_1067,73,Female,111,139/83,100.7,100,chest pain,HIGH
+Patient_1068,60,Male,93,137/97,96.8,93,chest pain,LOW
+Patient_1069,84,Male,117,126/99,101.7,86,dizziness,HIGH
+Patient_1070,82,Male,81,121/85,99.7,97,fever,MEDIUM
+Patient_1071,97,Female,86,148/99,101.8,93,chest pain,HIGH
+Patient_1072,94,Male,53,113/76,100.6,95,dizziness,MEDIUM
+Patient_1073,78,Male,81,131/96,101.3,87,chest pain,HIGH
+Patient_1074,91,Female,118,136/100,97.3,91,fever,HIGH
+Patient_1075,74,Female,89,133/70,96.2,93,fever,LOW
+Patient_1076,78,Male,117,158/80,102.9,86,fever,HIGH
+Patient_1077,70,Female,74,122/91,98.8,89,cough,HIGH
+Patient_1078,64,Male,83,151/76,99.4,99,chest pain,MEDIUM
+Patient_1079,66,Male,87,131/95,101.5,100,fever,HIGH
+Patient_1080,67,Male,61,115/91,99.6,100,dizziness,MEDIUM
+Patient_1081,71,Female,59,115/93,99.5,96,fever,MEDIUM
+Patient_1082,81,Female,117,117/96,97.3,91,fatigue,HIGH
+Patient_1083,79,Male,88,120/77,101.1,90,cough,HIGH
+Patient_1084,97,Male,125,154/73,96.4,100,fever,HIGH
+Patient_1085,85,Male,85,123/84,100.1,89,cough,HIGH
+Patient_1086,73,Male,90,139/80,98.6,99,chest pain,LOW
+Patient_1087,60,Male,105,110/97,103.7,92,chest pain,HIGH
+Patient_1088,72,Male,115,149/87,103.1,93,none,HIGH
+Patient_1089,98,Male,61,126/86,99.3,86,none,HIGH
+Patient_1090,72,Male,64,154/83,97.6,87,chest pain,HIGH
+Patient_1091,79,Female,80,137/93,101.1,93,dizziness,HIGH
+Patient_1092,88,Female,81,141/95,98.9,97,none,LOW
+Patient_1093,75,Male,95,110/95,102.0,98,fatigue,HIGH
+Patient_1094,63,Female,124,112/84,96.0,98,chest pain,HIGH
+Patient_1095,61,Female,104,157/71,98.1,95,none,MEDIUM
+Patient_1096,64,Male,86,156/80,100.6,87,cough,HIGH
+Patient_1097,80,Male,129,122/96,98.2,87,fatigue,HIGH
+Patient_1098,61,Female,98,158/74,98.7,98,none,MEDIUM
+Patient_1099,87,Female,79,126/82,99.8,93,dizziness,MEDIUM
+Patient_1100,73,Female,90,112/100,103.6,86,fever,HIGH
+Patient_1101,70,Female,69,128/74,99.0,90,dizziness,HIGH
+Patient_1102,88,Female,90,146/84,99.4,93,fatigue,MEDIUM
+Patient_1103,81,Female,59,153/72,102.4,91,fever,HIGH
+Patient_1104,93,Female,52,116/90,98.5,93,fatigue,LOW
+Patient_1105,65,Male,130,145/70,101.7,86,dizziness,HIGH
+Patient_1106,89,Female,96,121/87,102.1,93,none,HIGH
+Patient_1107,81,Female,99,158/93,97.5,86,chest pain,HIGH
+Patient_1108,82,Female,95,143/96,101.0,90,cough,HIGH
+Patient_1109,90,Male,86,111/72,101.0,98,none,MEDIUM
+Patient_1110,65,Female,102,159/94,103.3,97,cough,HIGH
+Patient_1111,61,Male,124,152/89,98.1,94,chest pain,HIGH
+Patient_1112,78,Male,116,123/76,102.7,87,fatigue,HIGH
+Patient_1113,95,Male,120,160/77,103.2,90,fatigue,HIGH
+Patient_1114,88,Male,68,128/93,103.5,96,dizziness,HIGH
+Patient_1115,71,Male,57,110/87,101.0,93,chest pain,MEDIUM
+Patient_1116,70,Female,82,138/93,100.4,93,chest pain,MEDIUM
+Patient_1117,96,Female,68,143/89,96.3,98,fatigue,LOW
+Patient_1118,68,Male,104,154/96,101.5,92,dizziness,HIGH
+Patient_1119,98,Female,99,140/95,101.6,87,fever,HIGH
+Patient_1120,89,Male,91,148/79,102.2,100,fatigue,HIGH
+Patient_1121,60,Male,107,128/80,101.3,94,chest pain,HIGH
+Patient_1122,83,Male,125,131/96,99.3,90,fever,HIGH
+Patient_1123,86,Female,63,124/98,98.2,97,fever,LOW
+Patient_1124,79,Female,81,132/96,96.2,86,cough,HIGH
+Patient_1125,61,Male,103,136/83,100.0,98,none,MEDIUM
+Patient_1126,65,Male,57,134/72,102.7,87,cough,HIGH
+Patient_1127,80,Male,93,132/71,98.8,85,none,HIGH
+Patient_1128,61,Male,116,144/86,97.0,95,none,HIGH
+Patient_1129,76,Female,73,122/95,99.2,96,none,MEDIUM
+Patient_1130,68,Male,119,118/91,99.5,94,none,HIGH
+Patient_1131,67,Female,54,138/71,97.4,85,cough,HIGH
+Patient_1132,89,Male,130,120/75,103.5,92,none,HIGH
+Patient_1133,63,Female,65,111/87,101.7,90,chest pain,HIGH
+Patient_1134,86,Male,123,114/91,99.0,93,fever,HIGH
+Patient_1135,60,Female,72,144/85,100.9,90,fatigue,HIGH
+Patient_1136,78,Male,114,129/82,103.0,86,fatigue,HIGH
+Patient_1137,90,Female,80,151/99,101.6,93,dizziness,HIGH
+Patient_1138,60,Male,57,113/73,102.0,90,cough,HIGH
+Patient_1139,80,Female,97,110/88,101.9,87,chest pain,HIGH
+Patient_1140,63,Female,74,155/87,103.0,99,fatigue,HIGH
+Patient_1141,80,Female,103,149/78,97.6,85,fever,HIGH
+Patient_1142,60,Female,66,155/97,102.6,95,chest pain,HIGH
+Patient_1143,84,Female,55,116/77,98.6,91,chest pain,HIGH
+Patient_1144,78,Male,90,129/88,102.4,100,none,HIGH
+Patient_1145,94,Female,61,110/99,102.7,92,fatigue,HIGH
+Patient_1146,97,Female,67,117/74,103.2,90,fever,HIGH
+Patient_1147,98,Male,60,127/75,97.7,89,none,HIGH
+Patient_1148,98,Female,68,130/84,98.8,92,fever,LOW
+Patient_1149,91,Female,118,113/81,96.9,91,fatigue,HIGH
+Patient_1150,69,Male,103,148/84,99.9,85,dizziness,HIGH
+Patient_1151,61,Male,98,139/95,100.8,88,none,HIGH
+Patient_1152,98,Male,104,157/72,100.8,85,none,HIGH
+Patient_1153,61,Female,82,118/92,99.6,85,chest pain,HIGH
+Patient_1154,97,Male,51,143/71,100.3,88,cough,HIGH
+Patient_1155,87,Male,125,147/79,97.0,96,chest pain,HIGH
+Patient_1156,77,Female,106,127/79,103.2,94,chest pain,HIGH
+Patient_1157,85,Male,71,112/70,103.8,89,cough,HIGH
+Patient_1158,89,Female,98,114/93,103.4,93,chest pain,HIGH
+Patient_1159,66,Female,77,143/80,100.1,86,dizziness,HIGH
+Patient_1160,92,Female,111,117/92,99.9,96,chest pain,HIGH
+Patient_1161,69,Female,109,143/93,102.6,90,chest pain,HIGH
+Patient_1162,61,Female,53,147/90,100.1,86,none,HIGH
+Patient_1163,84,Male,84,143/88,97.9,86,chest pain,HIGH
+Patient_1164,74,Male,128,133/90,101.0,100,dizziness,HIGH
+Patient_1165,90,Female,93,142/90,96.7,86,cough,HIGH
+Patient_1166,89,Male,87,115/93,99.1,99,fatigue,MEDIUM
+Patient_1167,87,Female,84,158/94,103.4,92,chest pain,HIGH
+Patient_1168,67,Male,105,150/99,99.2,88,cough,HIGH
+Patient_1169,65,Female,78,152/99,97.5,87,fever,HIGH
+Patient_1170,78,Male,93,151/77,96.0,98,dizziness,LOW
+Patient_1171,74,Male,108,148/93,103.7,88,fever,HIGH
+Patient_1172,72,Female,112,110/99,103.8,100,chest pain,HIGH
+Patient_1173,82,Female,92,120/90,96.4,96,chest pain,LOW
+Patient_1174,76,Male,123,139/82,101.9,94,dizziness,HIGH
+Patient_1175,61,Female,53,147/88,97.6,93,none,LOW
+Patient_1176,63,Female,60,147/75,102.8,86,fatigue,HIGH
+Patient_1177,84,Male,78,115/86,103.3,96,fever,HIGH
+Patient_1178,60,Male,105,134/79,98.0,100,fatigue,MEDIUM
+Patient_1179,87,Male,58,155/78,102.0,95,fatigue,HIGH
+Patient_1180,60,Female,114,160/71,98.2,99,dizziness,HIGH
+Patient_1181,71,Female,59,133/86,100.9,86,dizziness,HIGH
+Patient_1182,62,Female,115,128/91,97.7,90,cough,HIGH
+Patient_1183,63,Male,91,152/85,103.2,89,cough,HIGH
+Patient_1184,86,Female,93,143/85,97.4,86,cough,HIGH
+Patient_1185,63,Male,90,113/89,104.0,86,fever,HIGH
+Patient_1186,70,Male,54,158/86,103.6,90,dizziness,HIGH
+Patient_1187,80,Male,93,132/98,96.2,100,fatigue,LOW
+Patient_1188,88,Female,94,149/70,101.7,90,chest pain,HIGH
+Patient_1189,87,Male,109,159/91,98.7,94,chest pain,MEDIUM
+Patient_1190,74,Female,129,158/88,97.1,97,chest pain,HIGH
+Patient_1191,69,Male,116,113/83,103.9,89,fatigue,HIGH
+Patient_1192,81,Female,62,125/99,98.1,95,fatigue,LOW
+Patient_1193,72,Male,108,111/97,101.6,100,fatigue,HIGH
+Patient_1194,78,Female,130,154/84,101.3,91,dizziness,HIGH
+Patient_1195,70,Male,62,159/96,98.9,92,chest pain,LOW
+Patient_1196,95,Female,52,118/96,100.5,92,chest pain,MEDIUM
+Patient_1197,67,Female,119,160/94,103.7,98,dizziness,HIGH
+Patient_1198,92,Male,74,147/100,96.9,98,fatigue,LOW
+Patient_1199,89,Female,99,136/82,101.7,94,dizziness,HIGH
+Patient_1200,78,Female,81,152/100,99.1,86,fatigue,HIGH
